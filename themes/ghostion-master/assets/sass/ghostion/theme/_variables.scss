@@ -1,0 +1,27 @@
+//*-----------------------------------------
+//* Main Color
+//*-----------------------------------------
+$primary_color: 					#0D96C8 !default;
+$base_text_color: 					#686868 !default;
+$base_background_color: 			#fff !default;
+
+//*-----------------------------------------
+//* Base Color
+//*-----------------------------------------
+$header_background_color: 			shade($primary_color, 80%) !default;
+$logo_text_color: 					#fff !default;
+$menu_text_color: 					#fff !default;
+$showcase_text_color: 				#fff !default;
+$showcase_background_color: 		shade($primary_color, 50%) !default;
+$top_text_color: 					#fff !default;
+$top_background_color: 				shade($primary_color, 60%) !default;
+$footer_text_color: 				#fff !default;
+$footer_background_color: 			shade($primary_color, 80%) !default;
+$featured_label_color: 				#F4C445 !default;
+
+//*-----------------------------------------
+//* Font
+//*-----------------------------------------
+$base_font_family: 					"Open Sans", sans-serif;
+$base_font_size: 					16px;
+$base_line_height: 					1.6;
